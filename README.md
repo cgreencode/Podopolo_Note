@@ -1,7 +1,7 @@
 # A Note REST API App using ExpressJs, MongoDB, NodeJs and Typescript
 
 
-## Setup and Run Locally with or without using Docker
+## Setup and Run Locally 
 
 Commands
 
