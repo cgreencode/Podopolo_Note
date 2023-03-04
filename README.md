@@ -7,7 +7,7 @@ Commands
 
 ```bash
     # clone github repo
-    $ cd express-node-api
+    $ cd Podopolo_Note
     $ cp .env.example .env
 
     # Run 
