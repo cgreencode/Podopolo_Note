@@ -83,7 +83,7 @@ Postman Docs: https://documenter.getpostman.com/view/26150327/2s93JnUSRP
   POST    /api/notes/
   PUT     /api/notes/:id
   DELETE  /api/notes/:id
-  GET     /api/notes/search?q=:query
+  GET     /api/search?q=:query
   POST    /api/notes/:id/share
 ```
 ## 
