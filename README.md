@@ -1,5 +1,8 @@
 # A Note REST API App using ExpressJs, MongoDB, NodeJs and Typescript
 
+## Prerequisites
+MongoDB should be up & running.
+Node.js v4 or higher should be installed.
 
 ## Setup and Run Locally 
 
@@ -18,7 +21,13 @@ Commands
     # Run tests
     $ npm run test
 ```
+* I assumed you would run it locally. If you want to test it with MongoDB Online, you should update the base url.
 
+```
+DATABASE_URL="mongodb://localhost:27017/notesdb"
+```
+
+ 
 ## Directory Structure
 
 ```
